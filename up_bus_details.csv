@@ -1,0 +1,856 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - RKD0153,Ordinary Non AC Seater 2+3,21:00,05h 30m,02:30,3.3, 492,52 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - RKD0723,Ordinary Non AC Seater 2+3,21:06,05h 34m,02:40,1.0, 499,52 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - SJP0210,Ordinary Non AC Seater 2+3,21:12,05h 34m,02:46,3.3, 499,52 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - RKD0125,Shatabdi AC Seater 2+2,21:22,05h 00m,02:22,2.5, 648,34 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - SBD0111,Pink Express AC Seater 2+2,21:31,05h 29m,03:00,3.3, 648,36 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - LKM0402,Shatabdi AC Seater 2+2,21:46,05h 44m,03:30,3.3, 654,23 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - BLY0141,Shatabdi AC Seater 2+2,22:00,05h 30m,03:30,3.9, 648,32 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - PLB0009,Shatabdi AC Seater 2+2,22:16,05h 34m,03:50,2.5, 648,27 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - PNG0155,Rajdhani Non AC Seater 2+3,22:30,06h 30m,05:00,3.3, 499,51 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - SBD0116,Pink Express AC Seater 2+2,22:31,05h 19m,03:50,3.3, 648,36 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - BLY0119,Shatabdi AC Seater 2+2,22:31,05h 29m,04:00,3.6, 648,34 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - RKD0118,Shatabdi AC Seater 2+2,22:44,05h 00m,03:44,2.8, 648,37 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - BLY0138,Janrath AC Seater 2+2,23:02,05h 58m,05:00,3.8, 648,34 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - KSB0091,Shatabdi AC Seater 2+2,23:16,06h 00m,05:16,1.8, 648,35 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - BLY0153,Janrath AC Seater 2+2,23:30,04h 30m,04:00,3.8, 648,34 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - PLB0005,Shatabdi AC Seater 2+2,23:45,04h 50m,04:35,2.5, 648,37 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,UPSRTC - RKD0120,Shatabdi AC Seater 2+2,23:58,05h 02m,05:00,3.9, 648,33 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,FlixBus,Bharat Benz A/C Seater (2+2),23:35,05h 25m,05:00,4.3, 625,1 Seat available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,RS YADAV SMART BUS,Bharat Benz A/C Seater /Sleeper (2+1),21:40,07h 05m,04:45,3.8, 999,2 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,Rahul Travels,AshokLeyland Stile A/C,21:00,05h 00m,02:00,3.6,900,2 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,Rahul Travels,AshokLeyland Stile A/C,21:30,05h 00m,02:30,3.6,1080,7 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,New Khaira TPT,AC Sleeper (2+1),20:30,06h 20m,02:50,4.3, 900,9 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,SHRI RAM TRAVELS,A/C Seater (2+2),23:59,05h 16m,05:15,2.9, 740,13 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,Jaiswal Tour and Travels,A/C Seater/Sleeper (2+1),20:30,06h 00m,02:30,1.3, 850,15 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,SHRI RAM TRAVELS,A/C Seater (2+2),21:20,05h 55m,03:15,2.9, 705,15 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,Jaiswal Tour and Travels,A/C Sleeper (2+1),21:00,06h 00m,03:00,1.3, 850,19 Seats available
+Delhi to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-bareilly,Jaiswal Tour and Travels,A/C Sleeper (2+1),20:45,06h 00m,02:45,1.3, 899,29 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,UPSRTC - AWD0203,Janrath AC Seater 2+2,21:30,07h 30m,05:00,2.5, 1204,34 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,UPSRTC - SBD0111,Pink Express AC Seater 2+2,21:31,10h 59m,08:30,1.6, 1184,36 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,UPSRTC - AWD0204,Janrath AC Seater 2+2,22:30,07h 30m,06:00,3.2, 1204,17 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,UPSRTC - SBD0116,Pink Express AC Seater 2+2,22:31,10h 00m,08:31,1.1, 1184,37 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,UPSRTC - SBD0583,Pink Express AC Seater 2+2,23:05,08h 55m,08:00,3.3, 1204,40 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Gola Bus Service,Bharat Benz A/C Seater /Sleeper (2+1),22:30,08h 00m,06:30,4.7, 1399,13 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),23:45,08h 00m,07:45,4.6,1424,14 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,08h 20m,07:35,4.6, 1659,12 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,AdIntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:40,08h 15m,06:55,4.6, 1579,8 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,09h 00m,07:30,4.5, 1435,12 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,A/C Semi Sleeper / Sleeper (2+1),21:15,09h 15m,06:30,4.4, 1499,11 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Fouji travels,VE A/C Seater / Sleeper (2+1),22:30,08h 00m,06:30,4.1, 1599,14 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,AdFouji travels,A/C Seater / Sleeper (2+1),23:00,08h 00m,07:00,4.0, 1699,4 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Zingbus Plus,A/C Semi Sleeper / Sleeper (2+1),22:00,09h 20m,07:20,4.3,1296,9 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),21:30,08h 00m,05:30,4.4, 1599,13 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,RAO SAHAB TRAVELS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),23:15,08h 10m,07:25,4.3, 1699,26 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Here Bus,A/C Sleeper (2+1),20:35,08h 10m,04:45,4.2,1490,17 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Gola Bus Service,Bharat Benz A/C Seater /Sleeper (2+1),22:00,08h 00m,06:00,4.2, 1599,15 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,RS YADAV SMART BUS,A/C Semi Sleeper (2+2),21:55,09h 35m,07:30,4.8, 1899,11 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),23:15,08h 15m,07:30,4.6,1424,10 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:20,09h 15m,06:35,4.6, 1739,6 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:30,08h 00m,07:30,4.6, 1347,1 Seat available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:35,08h 55m,07:30,4.5, 1499,6 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Raj Kalpana Travels Pvt.ltd.,A/C Seater/Sleeper (2+1),23:15,08h 00m,07:15,4.4, 1579,8 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,09h 20m,08:05,4.5, 1469,8 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,08h 15m,07:15,4.5, 1519,7 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:15,09h 30m,06:45,4.5, 1429,10 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:45,09h 15m,07:00,4.5, 2199,5 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Raj Kalpana Travels Pvt.Ltd,Bharat Benz A/C Seater /Sleeper (2+1),23:30,08h 00m,07:30,4.3, 1579,10 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:00,08h 00m,07:00,4.5, 3019,2 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:30,09h 00m,07:30,4.4, 1699,4 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),21:00,08h 00m,05:00,4.6, 1399,3 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:05,08h 50m,06:55,4.4, 1299,6 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Fouji travels,A/C Seater / Sleeper (2+1),22:05,07h 50m,05:55,4.2, 1599,6 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,09h 30m,06:30,4.4, 1379,7 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+1),22:20,07h 10m,05:30,4.5, 1999,9 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,4.3, 1539,7 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),20:00,09h 45m,05:45,4.4, 1759,6 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,09h 00m,07:15,4.2, 1489,9 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Raj Kalpana Travels Pvt.ltd.,Bharat Benz A/C Seater /Sleeper (2+1),22:45,08h 00m,06:45,4.1, 1599,5 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),22:00,07h 55m,05:55,4.2, 1500,10 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,08h 30m,05:00,4.2, 2237,2 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:40,09h 15m,06:55,4.3, 1379,5 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:35,07h 55m,04:30,4.4, 2139,1 Seat available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,08h 50m,05:20,4.2, 1377,5 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Fouji travels,A/C Seater / Sleeper (2+1),20:30,08h 00m,04:30,4.0, 1499,2 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,Gola Bus Service,A/C Seater/Sleeper (2+1),20:30,06h 45m,03:15,4.0, 2499,1 Seat available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,FlixBus,A/C Sleeper (2+1),22:30,08h 55m,07:25,4.6, 2316.07,1 Seat available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,IntrCity SmartBus,A/C Sleeper (2+1),23:50,08h 10m,08:00,4.9, 1839,5 Seats available
+Delhi to Lucknow,https://www.redbus.in/bus-tickets/delhi-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),21:10,07h 15m,04:25,4.6, 2099,3 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - GRH0273,Ordinary Non AC Seater 2+3,21:00,06h 30m,03:30,3.3, 493,52 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - BLY0139,Janrath AC Seater 2+2,21:31,05h 59m,03:30,2.4, 648,34 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - GRH0272,Ordinary Non AC Seater 2+3,21:45,06h 30m,04:15,3.3, 493,52 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - RKD0121,Shatabdi AC Seater 2+2,22:01,05h 00m,03:01,2.5, 648,37 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - RKD0844,Shatabdi AC Seater 2+2,23:05,05h 00m,04:05,3.3, 648,36 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - STD0296,Ordinary Non AC Seater 2+3,23:13,07h 18m,06:31,3.3, 492,52 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - STD0356,Ordinary Non AC Seater 2+3,23:18,06h 45m,06:03,3.3, 492,52 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - KSB0088,Volvo AC Seater 2+2,23:26,05h 30m,04:56,4.7, 894,37 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - STD0144,Ordinary Non AC Seater 2+3,23:36,06h 40m,06:16,3.3, 459,52 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - BLY0105,Shatabdi AC Seater 2+2,23:51,04h 54m,04:45,4.3, 648,35 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - RPD0020,Ordinary Non AC Seater 2+3,23:55,07h 05m,07:00,3.3, 488,52 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,UPSRTC - RKD0126,Shatabdi AC Seater 2+2,23:58,05h 02m,05:00,2.8, 648,34 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,FlixBus,AC Seater (2+2),23:50,05h 30m,05:20,4.1, 545.54,2 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,RS YADAV SMART BUS,Bharat Benz A/C Seater /Sleeper (2+1),23:59,05h 56m,05:55,4.6, 699,5 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,Jaiswal Holidays,A/C Seater/Sleeper (2+1),21:40,06h 20m,04:00,3.0, 500,13 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,Jaiswal Holidays,A/C Sleeper (2+1),22:40,05h 50m,04:30,3.0, 1000,6 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,New Khaira Transport,A/C Seater / Sleeper (2+2),23:10,06h 50m,06:00,2.2, 500,6 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,Rahul Travels,AshokLeyland Stile A/C,23:10,05h 50m,05:00,2.0,765,4 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,New Khaira Transport,A/C Seater / Sleeper (2+1),23:40,05h 10m,04:50,2.8,675,2 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,SHRI RAM TRAVELS,A/C Seater (2+2),23:00,05h 35m,04:35,2.7, 705,17 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,Jaiswal Tour and Travels,A/C Sleeper (2+1),22:50,05h 45m,04:35,1.3, 1500,10 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,Jaiswal Tour and Travels,A/C Seater/Sleeper (2+1),22:15,05h 45m,04:00,1.3, 1200,10 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,Rahul Travels,AshokLeyland Stile A/C,22:30,05h 30m,04:00,2.0,855,4 Seats available
+Bareilly (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/bareilly-to-delhi,New Khaira TPT,AC Sleeper (2+1),23:15,05h 45m,05:00,2.9, 900,3 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,UPSRTC - RPN0083,Janrath AC Seater 2+2,21:01,06h 00m,03:01,3.3, 720,36 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,UPSRTC - DOR0004,Rajdhani Non AC Seater 2+3,21:14,05h 43m,02:57,3.3, 467,51 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,UPSRTC - RPN0085,Janrath AC Seater 2+2,21:31,06h 00m,03:31,3.3, 720,36 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,UPSRTC - GKD0143,Janrath AC Seater 2+2,22:00,06h 00m,04:00,3.5, 720,36 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,UPSRTC - VKS0416,Janrath AC Seater 2+3,23:55,06h 35m,06:30,2.7, 572,47 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:40,05h 50m,05:30,4.1, 640,3 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,Anshi Raj Shree Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:59,05h 46m,05:45,3.6,739,9 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,MISHRA BANDHU BUS SERVICE,A/C Seater / Sleeper (2+1),21:30,06h 00m,03:30,3.1, 550,2 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),23:00,05h 30m,04:30,2.4,647,1 Seat available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,Bhumi Travels,A/C Seater / Sleeper (2+2),23:25,05h 15m,04:40,2.4, 1699,38 Seats available
+Lucknow to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/lucknow-to-gorakhpur,Maa Laxmi Bihar Express,Non A/C Seater / Sleeper (2+1),22:30,06h 30m,05:00,1.3, 2500,10 Seats available
+Aligarh (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-delhi,UPSRTC - SKD0223,Ordinary Non AC Seater 2+3,21:55,03h 25m,01:20,3.3, 255,52 Seats available
+Aligarh (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/aligarh-uttar-pradesh-to-delhi,UPSRTC - MNP0120,Ordinary Non AC Seater 2+3,23:40,02h 52m,02:32,3.3, 280,52 Seats available
+Lucknow to Prayagraj(Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-allahabad,UPSRTC - AWD0035,Janrath AC Seater 2+3,21:00,05h 00m,02:00,1.0, 396,48 Seats available
+Lucknow to Prayagraj(Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-allahabad,UPSRTC - RBL0022,Ordinary Non AC Seater 2+3,21:20,05h 00m,02:20,3.3, 341,52 Seats available
+Lucknow to Prayagraj(Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-allahabad,UPSRTC - RBL0026,Ordinary Non AC Seater 2+3,22:00,05h 00m,03:00,3.3, 341,52 Seats available
+Lucknow to Prayagraj(Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-allahabad,UPSRTC - ALM0182,Volvo AC Seater 2+2,22:30,04h 30m,03:00,3.3, 708,39 Seats available
+Lucknow to Prayagraj(Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-allahabad,UPSRTC - RBL0030,Ordinary Non AC Seater 2+3,22:40,05h 00m,03:40,3.3, 341,52 Seats available
+Lucknow to Prayagraj(Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-allahabad,UPSRTC - AWD0201,Janrath AC Seater 2+3,23:00,05h 15m,04:15,2.8, 435,33 Seats available
+Lucknow to Prayagraj(Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-allahabad,UPSRTC - RBL0034,Ordinary Non AC Seater 2+3,23:20,05h 00m,04:20,2.9, 341,52 Seats available
+Lucknow to Prayagraj(Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-allahabad,ARORA TRAVELS,Volvo AC Seater (2+2),22:00,04h 45m,02:45,3.9, 703,25 Seats available
+Lucknow to Prayagraj(Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-allahabad,Goyal Travels,VE A/C Seater / Sleeper (2+1),23:49,04h 06m,03:55,2.2, 500,3 Seats available
+Delhi to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-aligarh-uttar-pradesh,UPSRTC - MNP0026,Ordinary Non AC Seater 2+3,21:31,02h 47m,00:18,3.3, 255,52 Seats available
+Delhi to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-aligarh-uttar-pradesh,UPSRTC - KSN0301,Ordinary Non AC Seater 2+3,22:15,03h 37m,01:52,3.3, 280,52 Seats available
+Delhi to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-aligarh-uttar-pradesh,UPSRTC - SKB0213,Ordinary Non AC Seater 2+3,22:29,04h 31m,03:00,3.3, 278,52 Seats available
+Delhi to Aligarh (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-aligarh-uttar-pradesh,UPSRTC - SKB0216,Ordinary Non AC Seater 2+3,22:44,03h 46m,02:30,3.3, 278,52 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,UPSRTC - SBD0118,Pink Express AC Seater 2+2,21:01,09h 59m,07:00,3.3, 1184,40 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,UPSRTC - CBG0128,Janrath AC Seater 2+2,21:31,08h 52m,06:23,1.4, 1204,36 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,UPSRTC - AWD0188,Janrath AC Seater 2+2,22:31,07h 59m,06:30,3.2, 1233,34 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Gola Bus Service,VE A/C Seater / Sleeper (2+1),22:20,08h 40m,07:00,4.7, 479,13 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:35,08h 00m,07:35,4.8, 549,13 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:50,08h 00m,05:50,4.8, 549,14 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,AdHare Rama Travels,A/C Seater/Sleeper (2+1),23:35,07h 15m,06:50,4.0, 499,29 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Raj Kalpana Travels Pvt.ltd.,A/C Seater/Sleeper (2+1),22:30,07h 30m,06:00,4.6, 449,15 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:00,08h 15m,06:15,4.7, 549,12 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,International Tourist Centre,VE A/C Seater / Sleeper (2+1),21:30,08h 45m,06:15,4.6,486,20 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,AdFouji travels,A/C Seater / Sleeper (2+1),23:50,07h 10m,07:00,3.9, 545,6 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Zingbus Plus,A/C Semi Sleeper / Sleeper (2+1),22:00,08h 45m,06:45,4.5,432,8 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:40,08h 00m,06:40,4.7, 689,13 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,08h 15m,06:15,4.6, 449,23 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Fouji travels,VE A/C Seater / Sleeper (2+1),22:30,07h 50m,06:20,4.5, 499,23 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,08h 45m,07:45,4.6, 519,11 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Fouji travels,A/C Seater / Sleeper (2+1),22:10,07h 50m,06:00,4.4, 499,16 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,08h 45m,07:15,4.5, 519,12 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:30,09h 00m,08:30,4.5, 549,17 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Ashok Bus Service,VE A/C Sleeper (2+1),23:10,07h 30m,06:40,4.4,508,36 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),21:40,08h 50m,06:30,4.5, 600,24 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+1),21:40,09h 20m,07:00,4.4, 449,21 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Fouji travels,A/C Seater / Sleeper (2+1),23:00,08h 00m,07:00,4.2, 499,15 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,A/C Semi Sleeper / Sleeper (2+1),23:15,08h 30m,07:45,4.4, 549,13 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Here Bus,A/C Sleeper (2+1),23:20,08h 20m,07:40,4.2,899,23 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),21:00,08h 10m,05:10,4.3, 399,19 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Raj Kalpana Travels Pvt.ltd.,Bharat Benz A/C Seater /Sleeper (2+1),22:00,07h 50m,05:50,4.3, 499,21 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,VGO BUS,VE A/C Seater / Sleeper (2+1),22:30,08h 30m,07:00,4.3, 599,22 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,RAO SAHAB TRAVELS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),23:15,07h 25m,06:40,4.9, 369,27 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,FlixBus,Bharat Benz A/C Seater (2+2),23:50,08h 40m,08:30,4.5, 553.57,15 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:20,07h 30m,06:50,4.2, 599,13 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+1),21:00,09h 45m,06:45,4.5, 599,12 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),22:10,09h 20m,07:30,4.3, 449,17 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Vaishali Expresso Pvt. Ltd.,A/C Sleeper (2+1),22:55,07h 21m,06:16,4.2, 599,13 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+1),21:14,08h 30m,05:44,4.3, 500,18 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Vaishali Bus Services Private Limited,A/C Seater / Sleeper (2+1),20:35,08h 30m,05:05,4.1, 857.14,13 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Tiwari Tour and Travels,A/C Sleeper (2+1),23:50,07h 50m,07:40,4.8, 1299,35 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:40,08h 15m,04:55,4.7, 599,4 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:00,08h 15m,05:15,4.6, 469,9 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:45,08h 00m,07:45,4.6, 649,10 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,08h 45m,06:15,4.6, 739,8 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,08h 15m,07:05,4.5, 599,10 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:40,08h 00m,05:40,4.3, 679,9 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:10,08h 00m,06:10,4.7, 889,10 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:00,06h 14m,05:14,4.3, 710,8 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Gola Bus Service,VE A/C Sleeper (2+1),22:30,07h 50m,06:20,4.3, 799,8 Seats available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),23:10,07h 45m,06:55,4.2, 799,1 Seat available
+Lucknow to Delhi,https://www.redbus.in/bus-tickets/lucknow-to-delhi,Gola Bus Service,VE A/C Seater / Sleeper (2+1),21:30,07h 50m,05:20,0, 559,7 Seats available
+Prayagraj(Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow,UPSRTC - ALM0185,Volvo AC Seater 2+2,21:00,04h 00m,01:00,3.3, 658,39 Seats available
+Prayagraj(Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow,UPSRTC - LDR0098,Janrath AC Seater 2+3,22:01,04h 49m,02:50,3.3, 435,46 Seats available
+Prayagraj(Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow,UPSRTC - CBG0031,Janrath AC Seater 2+2,22:02,06h 43m,04:45,3.3, 503,36 Seats available
+Prayagraj(Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow,UPSRTC - LDR0100,Janrath AC Seater 2+3,23:01,04h 59m,04:00,3.3, 435,47 Seats available
+Prayagraj(Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow,UPSRTC - ALM0338,Shatabdi AC Seater 2+2,23:30,04h 00m,03:30,3.3, 503,37 Seats available
+Prayagraj(Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow,Goyal Travels,A/C Seater / Sleeper (2+1),21:05,04h 20m,01:25,3.2, 700,23 Seats available
+Prayagraj(Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow,ARORA TRAVELS,Volvo AC Seater (2+2),21:01,04h 40m,01:41,2.2, 703,25 Seats available
+Prayagraj(Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/allahabad-to-lucknow,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:15,04h 15m,01:30,2.8,462,14 Seats available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,UPSRTC - FKP0021,Ordinary Non AC Seater 2+3,21:30,09h 00m,06:30,3.3, 562,52 Seats available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,UPSRTC - KSB0072,Janrath AC Seater 2+3,22:02,08h 00m,06:02,3.5, 662,22 Seats available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,KVS Holidays,Non A/C Seater / Sleeper (2+1),21:30,09h 00m,06:30,1.7,719,29 Seats available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,Yuvraj Travels,NON AC Seater / Sleeper 2+1,22:00,08h 00m,06:00,3.4, 700,40 Seats available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,Shree Krishna Shtabadi Travels,NON AC Seater / Sleeper 2+1,21:00,09h 00m,06:00,1.3, 600,43 Seats available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,Yuvraj Travels,NON AC Seater / Sleeper 2+1,20:00,10h 00m,06:00,3.4, 700,40 Seats available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,Yuvraj Travels,NON AC Seater / Sleeper 2+1,21:30,08h 30m,06:00,3.4, 700,40 Seats available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,Abhay Travels (I.R.T.C),Non A/C Seater / Sleeper (2+1),20:30,09h 30m,06:00,1.0, 1300,28 Seats available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,Shivendra Travels,A/C Sleeper (2+1),21:00,09h 00m,06:00,1.3, 3500,1 Seat available
+Delhi to Farrukhabad (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-farrukhabad-up,Shree Krishna Shtabadi Travels,NON A/C Sleeper (2+1),21:00,09h 30m,06:30,0, 1200,32 Seats available
+Delhi to Sitapur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-sitapur,UPSRTC - SBD0111,Pink Express AC Seater 2+2,21:31,09h 14m,06:45,1.9, 1005,37 Seats available
+Delhi to Sitapur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-sitapur,UPSRTC - SBD0116,Pink Express AC Seater 2+2,22:31,08h 14m,06:45,2.1, 1005,37 Seats available
+Delhi to Sitapur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-sitapur,RS YADAV SMART BUS,Bharat Benz A/C Seater /Sleeper (2+1),21:40,09h 20m,07:00,4.2, 999,2 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,UPSRTC - CBG0014,Pink Express AC Seater 2+2,21:00,06h 00m,03:00,3.3, 810,40 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,UPSRTC - AWD0199,Pink Express AC Seater 2+2,22:30,05h 30m,04:00,3.3, 810,38 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,UPSRTC - BDV0077,Janrath AC Seater 2+2,23:59,05h 01m,05:00,4.9, 810,28 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,RSRTC - 192993,A/C Seater / Sleeper (2+1),23:30,04h 50m,04:20,3.7, 891,18 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,04h 55m,04:05,4.1, 1593,28 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Laxmi holidays,VE A/C Seater / Sleeper (2+2),23:30,05h 00m,04:30,4.4, 1100,13 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:30,04h 30m,04:00,4.3, 1498,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Vaishali Bus Services Private Limited,A/C Seater / Sleeper (2+1),23:00,04h 00m,03:00,4.1, 1499,40 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+1),23:50,04h 20m,04:10,5.0, 1499,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Shree Raj Akanshi travels,Bharat Benz A/C Seater /Sleeper (2+1),23:15,05h 00m,04:15,3.8,1099,2 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Sethi Yatra Company,A/C Seater / Sleeper (2+1),23:30,05h 15m,04:45,3.2,1000,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Bhagwati Travel Agency,AC Sleeper (2+1),21:20,05h 00m,02:20,3.5,1259,10 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:55,04h 35m,04:30,4.1, 2384,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:10,04h 45m,02:55,4.1, 1579,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,05h 00m,01:30,4.7, 999,3 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Fouji travels,Bharat Benz A/C Seater / Sleeper (2+2),23:00,04h 30m,03:30,4.1, 1599,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Anshi Rajshree Travels,Bharat Benz A/C Sleeper (2+1),01:00,05h 50m,06:50,4.2,739,5 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,04h 30m,04:00,3.3, 699,8 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),22:15,04h 45m,03:00,3.5,739,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Rajat Travels,A/C Seater / Sleeper (2+1),23:05,04h 40m,03:45,3.2,1053,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),20:00,03h 40m,23:40,3.9, 640,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),22:15,05h 15m,03:30,3.5,648,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),21:55,03h 30m,01:25,3.6, 1499,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,GK Travels,A/C Seater/Sleeper (2+1),22:45,06h 15m,05:00,3.6,949,30 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Shiv Mohan Travels,AC Sleeper (2+1),23:31,05h 10m,04:41,3.1, 899,12 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),23:05,04h 30m,03:35,3.6, 1699,7 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),20:00,04h 45m,00:45,3.6, 1499,21 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Anshi Raj Shree Travels,A/C Seater/Sleeper (2+1),23:59,05h 16m,05:15,3.9,832,8 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:55,05h 05m,05:00,3.9, 1399,4 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05h 05m,05:00,3.9, 2400,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+2),23:00,04h 00m,03:00,3.6, 999,31 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),23:35,04h 00m,03:35,3.6, 1799,19 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Gola Bus Service,A/C Seater/Sleeper (2+1),22:00,05h 15m,03:15,3.9, 1599,6 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Star City Bus,A/C Seater / Sleeper (2+2),22:55,03h 05m,02:00,3.4, 1599,34 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Tiwari Travels,A/C Sleeper (2+1),22:30,04h 30m,03:00,3.5, 4000,36 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Kingfisher Busline Pvt Ltd,Volvo A/C Multi-Axle Semi Sleeper (2+2),22:00,04h 00m,02:00,3.0,3005,35 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),20:15,04h 45m,01:00,3.3,832,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+1),23:55,05h 20m,05:15,3.3, 1299,3 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Tamanna Travels,A/C Sleeper (2+1),20:50,05h 00m,01:50,2.9, 1008.57,36 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,New India Travels,A/C Seater/Sleeper (2+1),23:59,04h 06m,04:05,2.4, 1799,4 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Safar Express,A/C Seater / Sleeper (2+1),21:55,03h 30m,01:25,2.6, 1499,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Varun Travels,A/C Seater / Sleeper (2+2),22:30,04h 30m,03:00,1.4, 1299,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Kusum Travels and Logistics,A/C Seater / Sleeper (2+1),20:55,04h 00m,00:55,2.6, 2380.95,23 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Singh Tour & Travels,A/C Seater (2+2),22:30,05h 00m,03:30,1.4, 2499,37 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Safar Express,A/C Seater / Sleeper (2+1),23:35,04h 00m,03:35,2.4, 1999,40 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Panwar tour and Travels,A/C Seater / Sleeper (2+2),20:45,05h 45m,02:30,2.7,3182,1 Seat available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Safar Express,A/C Seater / Sleeper (2+2),23:00,04h 00m,03:00,2.2, 1999,48 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Safar Express,A/C Seater / Sleeper (2+1),20:00,04h 45m,00:45,2.1, 2499,38 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Jain Shiv Shankar Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:20,05h 00m,01:20,0, 1699,36 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Safar Express,A/C Seater / Sleeper (2+2),23:05,04h 30m,03:35,0, 1999,48 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Sanjay Travels,AC Sleeper (2+1),20:30,05h 00m,01:30,0, 1100,16 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),21:15,05h 15m,02:30,0,1109,7 Seats available
+Agra to Lucknow,https://www.redbus.in/bus-tickets/agra-to-lucknow,Anshi Raj Shree Travels,A/C Seater / Sleeper (2+1),23:00,05h 00m,04:00,0,1109,2 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Gola Bus Service,VE A/C Seater / Sleeper (2+1),21:30,13h 10m,10:40,4.5, 1599,12 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Gola Bus Service,Bharat Benz A/C Seater /Sleeper (2+1),22:00,13h 10m,11:10,4.5, 1599,15 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:00,14h 30m,13:30,4.4, 1424,11 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,RAO SAHAB TRAVELS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),23:20,15h 20m,14:40,4.4, 1499,18 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Laxmi holidays,VE A/C Seater / Sleeper (2+2),22:00,15h 00m,13:00,4.0, 1357,15 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Here Bus,A/C Sleeper (2+1),20:35,13h 20m,09:55,4.4,1490,16 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Gola Bus Service,VE A/C Seater / Sleeper (2+1),21:00,13h 10m,10:10,4.5, 1399,3 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,15h 00m,11:30,4.4, 1377,3 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,14h 40m,12:10,4.4, 1719,3 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:35,13h 15m,09:50,4.2, 2139,1 Seat available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),20:00,14h 00m,10:00,4.2, 1599,1 Seat available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Jamna Travels (Delhi),A/C Seater/Sleeper (2+1),20:00,14h 00m,10:00,4.0, 1599,1 Seat available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+2),22:05,14h 00m,12:05,3.5, 1699,17 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Dhruv Travels,VE A/C Seater / Sleeper (2+2),21:30,14h 25m,11:55,3.0, 1549,18 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+1),21:35,14h 55m,12:30,3.8, 1500,1 Seat available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Revanta Roadlines,A/C Seater / Sleeper (2+2),21:15,14h 00m,11:15,3.6,2700,48 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+1),22:20,13h 50m,12:10,3.9, 1999,9 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Fouji travels,A/C Seater / Sleeper (2+1),20:30,13h 20m,09:50,3.5, 1499,2 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:30,12h 30m,11:00,3.9, 1593,7 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Shree Savariya Travels & Transport,A/C Sleeper (2+1),22:50,12h 35m,11:25,3.3, 1499,3 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Shree Hare Rama Travels,Bharat Benz A/C Sleeper (2+1),23:00,15h 00m,14:00,2.4,3599,36 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Safar Express,A/C Seater / Sleeper (2+2),22:05,14h 00m,12:05,2.8, 1699,17 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Shree Saroj Travels,A/C Seater / Sleeper (2+2),21:00,13h 15m,10:15,2.4, 1399,6 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,New India Travels,A/C Seater/Sleeper (2+1),20:45,14h 45m,11:30,2.7, 1799,2 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,KST Travels,A/C Seater / Sleeper (2+1),21:25,14h 20m,11:45,2.9, 1499,8 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Dhruv Travels,A/C Seater / Sleeper (2+2),22:20,13h 54m,12:14,2.3, 1499,2 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,Jamna Travels (Delhi),A/C Sleeper (2+2),21:00,13h 20m,10:20,2.0, 1700,3 Seats available
+Delhi to Gorakhpur (uttar pradesh),https://www.redbus.in/bus-tickets/delhi-to-gorakhpur,BSS COOL COOL TRAVELS,VE A/C Sleeper (2+1),21:00,14h 30m,11:30,0, 1600,5 Seats available
+Farrukhabad (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/farrukhabad-up-to-delhi,UPSRTC - FKP0029,Janrath AC Seater 2+2,21:00,08h 55m,05:55,3.5, 710,30 Seats available
+Farrukhabad (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/farrukhabad-up-to-delhi,KVS Holidays,Non A/C Seater / Sleeper (2+1),20:30,09h 00m,05:30,1.5,719,30 Seats available
+Farrukhabad (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/farrukhabad-up-to-delhi,Shivendra Travels,A/C Sleeper (2+1),20:00,09h 30m,05:30,0, 3500,1 Seat available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,UPSRTC - CNT0085,Ordinary Non AC Seater 2+3,21:26,07h 59m,05:25,3.3, 528,52 Seats available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,UPSRTC - ALM0043,Volvo AC Seater 2+2,22:00,06h 00m,04:00,3.6, 1046,37 Seats available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,UPSRTC - CNT0093,Ordinary Non AC Seater 2+3,22:29,08h 01m,06:30,3.3, 528,52 Seats available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,UPSRTC - CNT0103,Ordinary Non AC Seater 2+3,22:58,08h 02m,07:00,3.3, 528,50 Seats available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,UPSRTC - CNT0097,Ordinary Non AC Seater 2+3,23:31,07h 59m,07:30,3.3, 528,52 Seats available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,PTC-SKYBUS,A/C Seater/Sleeper (2+1),22:30,07h 00m,05:30,4.5, 699,1 Seat available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:15,05h 46m,05:01,3.6, 499,8 Seats available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,Yolo Bus,A/C Seater / Sleeper (2+1),22:23,07h 03m,05:26,3.9, 549,14 Seats available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,Raj Kalpana Travels Pvt.Ltd,A/C Seater / Sleeper (2+1),23:45,05h 30m,05:15,3.7, 799,3 Seats available
+Lucknow to Varanasi,https://www.redbus.in/bus-tickets/lucknow-to-varanasi,Goyal Travels,VE A/C Seater / Sleeper (2+1),23:49,06h 31m,06:20,2.1, 500,3 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),22:00,04h 25m,02:25,3.4, 499,21 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:15,04h 45m,03:00,5.0,809,9 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,Fasttrack Travels,A/C Seater/Sleeper (2+1),22:15,04h 00m,02:15,3.8,474,17 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:25,04h 45m,03:10,4.8,764,12 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,Fasttrack Travels,VE A/C Seater / Sleeper (2+2),22:30,03h 20m,01:50,4.6,724,8 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,Zingbus Plus,A/C Seater/Sleeper (2+1),22:30,03h 45m,02:15,4.4,703,21 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,01h 30m,00:30,4.3,571,17 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,04h 00m,03:00,4.1,719,8 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,FlixBus,AC Seater (2+2),22:45,04h 00m,02:45,4.5, 709.82,11 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,FlixBus,Bharat Benz A/C Seater (2+2),23:35,02h 55m,02:30,3.9, 793.75,1 Seat available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,FlixBus,Bharat Benz A/C Sleeper (2+1),23:45,03h 50m,03:35,3.9, 524.11,14 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,Royal Safari India Travels,Bharat Benz A/C Seater (2+2),22:30,04h 30m,03:00,2.2,440,9 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:45,02h 25m,01:10,3.6,710,2 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,Rahul Travels,AshokLeyland Stile A/C,21:00,03h 45m,00:45,2.4,900,5 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,Shree Hare Rama Travels,VE A/C Semi Sleeper (2+2),23:55,03h 35m,03:30,1.7,899,19 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,VIP LUXURY TRIPS,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,04h 30m,03:30,3.6, 725,39 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,Rahul Travels,AshokLeyland Stile A/C,21:30,03h 45m,01:15,5.0,1080,28 Seats available
+Delhi to Moradabad,https://www.redbus.in/bus-tickets/delhi-to-moradabad,RS YADAV SMART BUS,Bharat Benz A/C Seater /Sleeper (2+1),21:40,05h 05m,02:45,0, 999,15 Seats available
+Aligarh (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/aligarh-to-lucknow,UPSRTC - BDV0077,Janrath AC Seater 2+2,21:20,07h 40m,05:00,2.8, 948,27 Seats available
+Aligarh (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/aligarh-to-lucknow,UPSRTC - ALI0171,Rajdhani Non AC Seater 2+3,21:30,10h 50m,08:20,3.3, 650,51 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,UPSRTC - HPR0710,Janrath AC Seater 2+3,23:58,03h 34m,03:32,3.3, 333,48 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04h 00m,01:00,4.1,539,29 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),21:40,03h 50m,01:30,4.1,494,20 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,Vijay Tour and Travels,Volvo Multi-Axle A/C Sleeper (2+1),22:20,03h 30m,01:50,4.1,719,22 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),22:30,04h 30m,03:00,3.0,359,19 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,Rahul Travels,AshokLeyland Stile A/C,23:50,04h 10m,04:00,3.6,765,10 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:55,03h 22m,03:17,4.8,337,31 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,Fasttrack Travels,VE A/C Seater / Sleeper (2+2),23:55,04h 35m,04:30,3.0,474,21 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,Fasttrack Travels,A/C Seater/Sleeper (2+1),23:58,0-20h 0-18m,04:40,3.0,374,35 Seats available
+Moradabad to Delhi,https://www.redbus.in/bus-tickets/moradabad-to-delhi,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,04h 00m,03:30,2.8, 571,23 Seats available
+Sitapur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sitapur-to-delhi,UPSRTC - SBD0582,Pink Express AC Seater 2+2,21:00,09h 02m,06:02,3.3, 1005,39 Seats available
+Sitapur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sitapur-to-delhi,UPSRTC - BRT0037,Ordinary Non AC Seater 2+3,21:10,10h 50m,08:00,3.3, 748,52 Seats available
+Sitapur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sitapur-to-delhi,UPSRTC - AWD0116,Janrath AC Seater 2+3,21:30,10h 00m,07:30,2.0, 877,48 Seats available
+Sitapur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sitapur-to-delhi,UPSRTC - GND0100,Ordinary Non AC Seater 2+3,21:34,10h 26m,08:00,3.3, 716,52 Seats available
+Sitapur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sitapur-to-delhi,UPSRTC - BRT0066,Ordinary Non AC Seater 2+3,21:40,10h 55m,08:35,3.3, 747,52 Seats available
+Sitapur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sitapur-to-delhi,UPSRTC - SBD0118,Pink Express AC Seater 2+2,22:40,08h 20m,07:00,1.8, 1005,40 Seats available
+Sitapur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/sitapur-to-delhi,RS YADAV SMART BUS,Bharat Benz A/C Seater /Sleeper (2+1),20:45,09h 10m,05:55,4.4, 699,12 Seats available
+Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur,UPSRTC - SJP0215,Ordinary Non AC Seater 2+3,20:57,07h 20m,04:17,3.3, 634,52 Seats available
+Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur,UPSRTC - SJP0210,Ordinary Non AC Seater 2+3,21:12,07h 20m,04:32,3.3, 634,52 Seats available
+Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur,UPSRTC - GLA0142,Janrath AC Seater 2+2,21:19,06h 46m,04:05,3.3, 841,25 Seats available
+Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur,UPSRTC - SJP0220,Ordinary Non AC Seater 2+3,21:22,07h 20m,04:42,3.3, 634,52 Seats available
+Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur,UPSRTC - LKM0402,Shatabdi AC Seater 2+2,21:46,07h 14m,05:00,3.3, 818,29 Seats available
+Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur,UPSRTC - SJP0227,Ordinary Non AC Seater 2+3,22:02,07h 20m,05:22,3.3, 634,52 Seats available
+Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur,UPSRTC - SJP0244,Ordinary Non AC Seater 2+3,22:32,07h 20m,05:52,3.3, 634,52 Seats available
+Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur,UPSRTC - SJP0250,Ordinary Non AC Seater 2+3,23:02,07h 20m,06:22,3.3, 634,52 Seats available
+Delhi to Shahjahanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-shahjahanpur,RS YADAV SMART BUS,Bharat Benz A/C Seater /Sleeper (2+1),21:40,08h 05m,05:45,4.1, 999,2 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,UPSRTC - AWD0203,Janrath AC Seater 2+2,21:40,07h 20m,05:00,3.3, 1199,36 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,UPSRTC - AWD0204,Janrath AC Seater 2+2,23:15,06h 45m,06:00,3.9, 1150,21 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,Zingbus Plus,A/C Semi Sleeper / Sleeper (2+1),23:20,07h 45m,07:05,4.5,1296,10 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),21:55,07h 50m,05:45,4.4, 1759,6 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:50,07h 05m,06:55,4.3, 1559,8 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,08h 00m,06:30,4.3, 1379,7 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:15,07h 45m,07:00,4.0, 2179,5 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:15,07h 30m,06:45,4.4, 1379,10 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,A/C Semi Sleeper / Sleeper (2+1),23:10,07h 20m,06:30,4.5, 1449,6 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:25,07h 35m,06:00,4.4, 1539,8 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:50,07h 05m,06:55,3.4, 1559,6 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,07h 45m,06:35,2.5, 1759,6 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,07h 00m,04:30,2.3, 2139,1 Seat available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:15,06h 40m,02:55,4.2, 1419,1 Seat available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:25,07h 30m,06:55,4.4, 1559,4 Seats available
+Greater noida (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/greater-noida-to-lucknow,Here Bus,A/C Sleeper (2+1),21:40,07h 05m,04:45,4.2,1796,19 Seats available
+Kanpur (Uttar Pradesh) to Varanasi,https://www.redbus.in/bus-tickets/kanpur-to-varanasi,UPSRTC - VKS0050,Janrath AC Seater 2+3,21:50,08h 00m,05:50,2.4, 628,46 Seats available
+Kanpur (Uttar Pradesh) to Varanasi,https://www.redbus.in/bus-tickets/kanpur-to-varanasi,UPSRTC - CNT0027,Janrath AC Seater 2+3,22:29,08h 44m,07:13,3.1, 678,48 Seats available
+Kanpur (Uttar Pradesh) to Varanasi,https://www.redbus.in/bus-tickets/kanpur-to-varanasi,UPSRTC - CNT0072,Janrath AC Seater 2+3,23:28,08h 02m,07:30,3.0, 678,46 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - GKD0001,Shatabdi AC Seater 2+2,21:00,05h 16m,02:16,4.3, 668,41 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - CBG0187,Janrath AC Seater 2+2,21:15,07h 00m,04:15,3.3, 720,36 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - DOR0015,Janrath AC Seater 2+2,21:15,05h 56m,03:11,3.3, 664,36 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - AWD0170,Janrath AC Seater 2+2,21:15,05h 45m,03:00,3.3, 720,36 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - DOR0001,Janrath AC Seater 2+2,21:15,06h 25m,03:40,3.3, 720,36 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - CBG0195,Janrath AC Seater 2+3,21:16,06h 45m,04:01,3.3, 628,48 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - AWD0063,Janrath AC Seater 2+2,21:31,05h 43m,03:14,3.3, 668,36 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - VKS0417,Janrath AC Seater 2+3,21:40,07h 10m,04:50,3.3, 619,48 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - AWD0065,Janrath AC Seater 2+3,22:01,05h 43m,03:44,3.2, 584,48 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - FZG0010,Ordinary Non AC Seater 2+3,22:15,05h 45m,04:00,3.3, 501,52 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - CBG0219,Janrath AC Seater 2+2,22:30,06h 00m,04:30,3.3, 720,36 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - AWD0067,Janrath AC Seater 2+3,22:36,06h 44m,05:20,3.3, 628,48 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - AWD0066,Janrath AC Seater 2+3,23:01,05h 43m,04:44,3.8, 584,48 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - AWD0328,Janrath AC Seater 2+3,23:15,05h 45m,05:00,3.3, 628,48 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - AWD0131,Janrath AC Seater 2+2,23:30,05h 34m,05:04,3.3, 668,36 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,UPSRTC - AWD0068,Janrath AC Seater 2+3,23:58,05h 45m,05:43,2.3, 584,48 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),19:55,04h 55m,00:50,4.1, 599,4 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,RAO SAHAB TRAVELS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),21:40,03h 50m,01:30,4.1, 499,18 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:00,05h 20m,02:20,4.6, 629,23 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+2),20:00,05h 30m,01:30,4.0, 700,16 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,05h 25m,01:25,4.6, 669,16 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Samay Shatabdi Travels Pvt Ltd,NON A/C Sleeper (2+1),20:30,05h 45m,02:15,3.5, 599,2 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Gola Bus Service,A/C Seater/Sleeper (2+1),21:00,05h 00m,02:00,3.0, 699,14 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),21:30,06h 14m,03:44,3.9, 749,9 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Samay Shatabdi Travels Pvt Ltd,AC Sleeper (2+1),22:00,05h 45m,03:45,3.8, 749,2 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,MISHRA BANDHU BUS SERVICE,A/C Seater / Sleeper (2+1),21:55,06h 19m,04:14,3.4, 650,14 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Shatabdi Travels Gorakhpur,AC Sleeper (2+1),20:45,05h 30m,02:15,3.5, 800,5 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),19:55,05h 04m,00:59,3.0, 599,9 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),20:40,05h 00m,01:40,3.0, 699,10 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,RYS Travels,Bharat Benz A/C Seater / Sleeper (2+2),20:00,04h 30m,00:30,1.7,1574,30 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+2),20:10,03h 50m,00:00,3.8, 1099,40 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,DIVA BUS,AC Sleeper (2+1),20:30,05h 35m,02:05,3.6, 2095.24,36 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:00,06h 15m,02:15,2.1, 600,20 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Laxmi holidays,VE A/C Seater / Sleeper (2+2),21:00,06h 20m,03:20,2.1, 599,52 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Shivansh travels,A/C Seater/Sleeper (2+1),20:30,06h 30m,03:00,1.7, 599,42 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Safar Express,A/C Seater / Sleeper (2+2),20:10,03h 50m,00:00,1.7, 1199,48 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),21:00,06h 00m,03:00,1.4, 1500,58 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Kusum Travels and Logistics,NON AC Seater / Sleeper 2+1,20:45,05h 00m,01:45,1.3, 3799,10 Seats available
+Gorakhpur (uttar pradesh) to Lucknow,https://www.redbus.in/bus-tickets/gorakhpur-to-lucknow,Shree Balajee Travels And Cargo,A/C Seater / Sleeper (2+1),20:00,05h 00m,01:00,0,1529,47 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,RSRTC - 194602,Express Non AC Seater 2+3,21:00,05h 00m,02:00,3.6, 286,42 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,FlixBus,Bharat Benz A/C Sleeper (2+1),20:00,04h 20m,00:20,4.0, 860.71,3 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,FlixBus,A/C Sleeper (2+1),20:10,04h 00m,00:10,3.2, 1265.18,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,NueGo,A/C Seater (2+2),20:25,05h 25m,01:50,4.0,284,20 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Hans Travels (I) Private Limited,A/C Sleeper (2+1),20:25,03h 15m,23:40,3.1, 300,4 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,FlixBus,Bharat Benz A/C Seater (2+2),22:00,05h 05m,03:05,4.1, 315.18,8 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,FlixBus,AC Seater (2+2),22:30,04h 35m,03:05,4.0, 1203.57,8 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,JD Travels (Khajuraho Travels),A/C Seater / Sleeper (2+1),23:00,04h 00m,03:00,3.2, 399,20 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,NueGo,A/C Seater (2+2),23:55,04h 25m,04:20,4.0,284,26 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Red Apple Bus Service,A/C Seater/Sleeper (2+1),21:30,04h 00m,01:30,1.4, 499,25 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,FlixBus,A/C Sleeper (2+1),22:30,03h 45m,02:15,2.0, 1203.57,5 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),20:00,03h 05m,23:05,3.8, 1699,7 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),20:00,04h 00m,00:00,4.0, 2300,5 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),20:00,03h 29m,23:29,4.0, 1599,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Gola Bus Service,Bharat Benz A/C Seater /Sleeper (2+1),20:00,03h 00m,23:00,3.5, 3399,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:00,03h 55m,23:55,4.2, 2600,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Vinay Travels,VE A/C Seater / Sleeper (2+1),20:00,04h 20m,00:20,3.1,2690,3 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:05,03h 15m,23:20,4.4, 1559,28 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),20:05,03h 30m,23:35,3.8, 1799,19 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Khajuraho Travels,A/C Seater / Sleeper (2+1),20:16,03h 40m,23:56,3.5, 1696,11 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Gola Bus Service,Bharat Benz A/C Sleeper (2+1),20:20,01h 40m,22:00,3.5, 1999,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+1),20:25,03h 25m,23:50,3.4, 1499,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Zingbus Plus,Tata A/C Seater,21:00,04h 20m,01:20,3.6,877,30 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,04h 30m,01:00,4.2, 2400,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),20:30,04h 15m,00:45,4.2, 1377,3 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,SAFAR EXPRESS PVT LTD,A/C Sleeper (2+1),20:30,02h 53m,23:23,3.8, 799,21 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Raj Kalpana Travels Pvt.ltd.,A/C Sleeper (2+1),20:30,03h 30m,00:00,3.5, 799,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Kamla Travels,Bharat Benz A/C Sleeper (2+1),20:30,03h 00m,23:30,3.1, 1143,11 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,RS YADAV SMART BUS,VE A/C Seater / Sleeper (2+1),20:30,03h 20m,23:50,3.4, 2299,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),20:40,03h 30m,00:10,3.6,1583,18 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,SAFAR EXPRESS PVT LTD,AC Sleeper (2+1),20:35,03h 40m,00:15,3.8, 1500,36 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Panwar tour and Travels,A/C Seater / Sleeper (2+1),23:55,03h 40m,03:35,1.4,890,16 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Tiwari Tour and Travels,A/C Sleeper (2+1),20:35,03h 55m,00:30,4.2, 1599,36 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Here Bus,A/C Sleeper (2+1),20:35,03h 55m,00:30,3.3,2160,36 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Shri Bawa Lal Tour and Travels,A/C Seater / Sleeper (2+1),20:40,06h 06m,02:46,4.4,759,28 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,RS YADAV SMART BUS,Volvo 9600 A/C Semi Sleeper (2+2),20:45,04h 44m,01:29,4.1, 1999,6 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Fouji travels,A/C Seater / Sleeper (2+1),21:00,05h 30m,02:30,4.0, 699,13 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,BSS COOL COOL TRAVELS,VE A/C Sleeper (2+1),21:00,03h 40m,00:40,3.6, 1600,5 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Zingbus Plus,A/C Semi Sleeper / Sleeper (2+1),22:00,04h 20m,02:20,3.6,1296,29 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,03h 40m,02:50,3.9,998,15 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Jamna Travels (Delhi),A/C Sleeper (2+2),21:00,03h 40m,00:40,3.5, 1600,4 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Gola Bus Service,VE A/C Seater / Sleeper (2+1),21:00,03h 30m,00:30,4.4, 3499,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),21:00,02h 25m,23:25,3.5, 1499,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,RAJ KALPANA TRAVELS PRIVATE LIMITED,A/C Sleeper (2+1),21:00,03h 45m,00:45,4.4, 599,21 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),21:00,04h 05m,01:05,3.4, 1759,6 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),21:10,02h 10m,23:20,3.8, 1299,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),21:10,03h 15m,00:25,3.5, 1699,13 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Raj Kalpana Travels Pvt.ltd.,A/C Seater/Sleeper (2+1),21:15,03h 48m,01:03,3.6, 699,15 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Revanta Roadlines,A/C Seater / Sleeper (2+2),21:15,03h 50m,01:05,3.4,2700,48 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),21:15,02h 35m,23:50,4.4, 2499,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:30,04h 00m,01:30,3.2, 2608,1 Seat available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Aadishakti Travels,Bharat Benz A/C Seater (2+2),21:30,04h 50m,02:20,4.4, 1999,2 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:30,04h 05m,01:35,3.4, 1539,8 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,Sai Anand,AC Sleeper (2+1),21:30,04h 45m,02:15,3.8, 999,8 Seats available
+Delhi to Agra,https://www.redbus.in/bus-tickets/delhi-to-agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),21:30,03h 30m,01:00,0, 1199,13 Seats available
+Delhi to Badaun,https://www.redbus.in/bus-tickets/delhi-to-badaun,UPSRTC - BDN0046,Ordinary Non AC Seater 2+3,21:00,06h 30m,03:30,3.3, 411,52 Seats available
+Delhi to Badaun,https://www.redbus.in/bus-tickets/delhi-to-badaun,UPSRTC - KSB0005,Shatabdi AC Seater 2+2,23:00,06h 00m,05:00,2.4, 555,20 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:15,08h 10m,05:25,4.3, 869,3 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,08h 55m,07:25,4.8,1169,8 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),22:25,08h 25m,06:50,4.3, 1199,4 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Raj Kalpana Travels Pvt.Ltd,A/C Sleeper (2+1),22:45,08h 30m,07:15,4.4, 1199,1 Seat available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,08h 30m,07:15,4.7, 1489,4 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:15,08h 30m,06:45,4.5, 1489,3 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Raj Kalpana Travels Pvt.ltd.,Non A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,4.2, 1000,1 Seat available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:00,08h 30m,05:30,4.3, 1579,3 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,FlixBus,AC Seater (2+2),23:20,08h 20m,07:40,4.3, 1343.75,3 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:45,08h 10m,05:55,4.4, 1269,5 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,08h 30m,07:00,4.4, 1819,3 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,RS YADAV SMART BUS,Volvo 9600 A/C Semi Sleeper (2+2),20:45,09h 25m,06:10,4.3, 1999,7 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Tiwari and Brothers,A/C Sleeper (2+1),22:00,09h 00m,07:00,3.4, 2199,10 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),23:45,07h 00m,06:45,3.2, 999,4 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,SAFAR EXPRESS PVT LTD,NON AC Seater / Sleeper 2+1,20:30,08h 10m,04:40,3.4, 800,12 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,SAFAR EXPRESS PVT LTD,NON AC Seater / Sleeper 2+1,22:10,08h 46m,06:56,3.8, 800,10 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Raj Kalpana Travels Pvt.Ltd,VE A/C Sleeper (2+1),23:00,07h 45m,06:45,3.4, 999,1 Seat available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Sai Anand,AC Sleeper (2+1),21:30,08h 50m,06:20,3.6, 999,1 Seat available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Gola Bus Service,Bharat Benz A/C Sleeper (2+1),20:20,05h 30m,01:50,3.7, 1999,1 Seat available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,BSS COOL COOL TRAVELS,A/C Seater / Sleeper (2+1),20:40,06h 30m,03:10,3.6, 2300,5 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Gola Bus Service,VE A/C Seater / Sleeper (2+1),21:00,07h 00m,04:00,3.6, 3499,1 Seat available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,FlixBus,A/C Sleeper (2+1),20:10,08h 20m,04:30,3.3, 1615.18,2 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Shri Bawa Lal Tour and Travels,A/C Seater / Sleeper (2+1),20:40,10h 20m,07:00,3.1,759,11 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,AG BUS SERVICE,A/C Seater / Sleeper (2+1),23:25,07h 31m,06:56,2.6, 2999,40 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,SAFAR EXPRESS PVT LTD,NON A/C Sleeper (2+1),23:05,09h 00m,08:05,1.4, 1000,13 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Tejas Travels,A/C Seater / Sleeper (2+1),22:00,08h 00m,06:00,2.0, 600,7 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Kalpana Travels Kanpur,NON A/C Sleeper (2+1),23:55,08h 30m,08:25,2.0, 800,20 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Kalpana Travels Pvt. Ltd.,AC Sleeper (2+1),22:31,08h 15m,06:46,1.8, 999,4 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Yadav Vishvkarma Tour And Travels,A/C Seater / Sleeper (2+1),20:20,08h 21m,04:41,2.3, 1000,5 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,New Yadav Vishwakarma Tour and Travels,Bharat Benz NON A/C sleeper (2+1),22:30,09h 00m,07:30,1.0, 1199,16 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Jagdamba tourism,A/C Seater/Sleeper (2+1),22:45,06h 15m,05:00,1.5, 1899,55 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,New Yadav Vishwakarma Tour and Travels,Bharat Benz NON A/C sleeper (2+1),22:00,09h 30m,07:30,2.9, 1500,22 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Shatabdi Travels,AC Sleeper (2+1),21:30,08h 30m,06:00,2.4, 1399,4 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,PRATAP T&C,A/C Seater / Sleeper (2+2),20:45,08h 15m,05:00,2.4,2349,4 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Shree Saroj Travels,A/C Seater/Sleeper (2+1),20:20,07h 10m,03:30,2.4, 1499,7 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Shree Saroj Travels,A/C Seater/Sleeper (2+1),22:00,06h 30m,04:30,2.8, 2199,15 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Safar Express,NON AC Seater / Sleeper 2+1,20:30,08h 10m,04:40,1.8, 800,14 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Safar Express,NON AC Seater / Sleeper 2+1,22:10,08h 46m,06:56,2.4, 800,10 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Raj Shila Travels,A/C Seater / Sleeper (2+2),22:20,07h 10m,05:30,0, 1990,20 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,Yadav Vishvkarma Tour And Travels,NON AC Seater / Sleeper 2+1,23:31,07h 40m,07:11,0, 750,10 Seats available
+Delhi to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/delhi-to-kanpur,PRATAP T&C,A/C Seater/Sleeper (2+1),22:30,08h 15m,06:45,0, 1849,10 Seats available
+Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit,UPSRTC - PLB0329,Ordinary Non AC Seater 2+3,22:02,06h 53m,04:55,3.3, 579,52 Seats available
+Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit,UPSRTC - PLB0009,Shatabdi AC Seater 2+2,22:16,07h 14m,05:30,4.1, 758,26 Seats available
+Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit,UPSRTC - PLB0318,Ordinary Non AC Seater 2+3,22:29,07h 15m,05:44,3.3, 579,52 Seats available
+Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit,UPSRTC - PLB0005,Shatabdi AC Seater 2+2,23:45,06h 45m,06:30,3.6, 758,37 Seats available
+Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit,Rahul Travels,AshokLeyland Stile A/C,21:30,05h 40m,03:10,2.8,1080,8 Seats available
+Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit,Rahul Travels,AshokLeyland Stile A/C,21:00,05h 40m,02:40,2.1,900,4 Seats available
+Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit,New Khaira TPT,A/C Seater / Sleeper (2+2),21:00,06h 30m,03:30,3.2, 550,1 Seat available
+Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit,Jaiswal Holidays,A/C Sleeper (2+1),20:45,06h 30m,03:15,3.0, 1000,12 Seats available
+Delhi to Pilibhit,https://www.redbus.in/bus-tickets/delhi-to-pilibhit,New Khaira TPT,AC Sleeper (2+1),20:30,07h 00m,03:30,2.9, 900,9 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,UPSRTC - AWD0056,Janrath AC Seater 2+2,23:15,07h 45m,07:00,4.5, 867,31 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,05h 40m,04:30,4.7, 489,10 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:35,05h 40m,05:15,4.9, 549,13 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:40,05h 50m,03:30,4.7, 549,9 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,05h 40m,04:40,4.7, 519,11 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Ashok Bus Service,VE A/C Sleeper (2+1),23:10,05h 10m,04:20,4.4,508,36 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,International Tourist Centre,VE A/C Seater / Sleeper (2+1),21:30,05h 00m,02:30,4.5,486,19 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,06h 00m,03:30,4.8, 639,8 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,05h 45m,04:15,4.9, 489,12 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05h 50m,05:20,4.3, 519,17 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Raj Kalpana Travels Pvt.ltd.,A/C Seater/Sleeper (2+1),22:30,05h 00m,03:30,4.6, 459,14 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:59,05h 26m,05:25,4.2, 599,17 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,VGO BUS,VE A/C Seater / Sleeper (2+1),22:30,06h 00m,04:30,4.5, 599,23 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:40,05h 10m,04:50,4.5, 600,2 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Fouji travels,Bharat Benz A/C Seater / Sleeper (2+2),23:55,04h 05m,04:00,4.1, 899,1 Seat available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Gola Bus Service,A/C Seater/Sleeper (2+1),23:46,05h 14m,05:00,4.2, 999,1 Seat available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Fouji travels,A/C Seater / Sleeper (2+1),23:10,05h 00m,04:10,4.1, 899,4 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Gola Bus Service,VE A/C Sleeper (2+1),22:30,06h 30m,05:00,5.0, 799,8 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,05h 55m,04:45,4.6, 1413,6 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Tiwari Tour and Travels,A/C Sleeper (2+1),23:20,06h 15m,05:35,4.5, 1299,36 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,06h 25m,06:10,4.8, 656,4 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,05h 45m,04:30,4.1, 656,6 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,SVD TRAVELS & TRANSPORT LLP,VE A/C Seater / Sleeper (2+1),21:50,05h 25m,03:15,4.0, 1499,44 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Shakmbhari Travels,A/C Seater / Sleeper (2+1),23:30,06h 30m,06:00,4.8, 494,3 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Gola Bus Service,VE A/C Seater / Sleeper (2+1),21:30,06h 30m,04:00,4.4, 559,7 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Raj Kalpana Travels Pvt.Ltd,Bharat Benz A/C Seater /Sleeper (2+1),22:50,04h 40m,03:30,4.5, 1000,1 Seat available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:00,05h 55m,03:55,4.4, 529,12 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Raj Kalpana Travels Pvt.ltd.,Bharat Benz A/C Seater /Sleeper (2+1),22:45,04h 30m,03:15,4.6, 549,37 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:40,06h 00m,02:40,4.5, 469,4 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05h 50m,04:30,4.3, 600,1 Seat available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:45,05h 50m,05:35,4.6, 539,10 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:00,05h 55m,02:55,4.6, 439,7 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,A/C Semi Sleeper / Sleeper (2+1),23:15,05h 30m,04:45,4.6, 549,10 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,A/C Sleeper (2+1),21:10,06h 05m,03:15,4.5, 839,10 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:40,05h 10m,02:50,4.6, 600,7 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:50,05h 40m,03:30,4.2, 549,14 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),22:15,05h 51m,04:06,4.1, 900,1 Seat available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Yolo Bus,Bharat Benz A/C Sleeper (2+1),23:00,04h 36m,03:36,4.2, 890,10 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+1),22:59,05h 30m,04:29,4.6, 900,37 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:30,05h 50m,02:20,5.0, 819,1 Seat available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,07h 30m,05:30,4.2, 449,22 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),23:50,06h 39m,06:29,3.9, 899,12 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Gola Bus Service,VE A/C Seater / Sleeper (2+1),22:20,05h 00m,03:20,3.0, 469,13 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Vande Fly,A/C Seater / Sleeper (2+2),22:30,05h 25m,03:55,3.6, 450,24 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05h 40m,04:20,3.0, 549,13 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),23:00,04h 45m,03:45,3.1, 499,13 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:10,05h 50m,04:00,2.6, 709,10 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Shobha Bus Service,A/C Sleeper (2+1),21:00,05h 30m,02:30,2.2, 1399,30 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,05h 00m,03:30,0,567,21 Seats available
+Lucknow to Mathura,https://www.redbus.in/bus-tickets/lucknow-to-mathura,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),22:25,05h 45m,04:10,0,989,38 Seats available
+Kanpur (Uttar Pradesh) to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/kanpur-to-bareilly,UPSRTC - BLY0094,Janrath AC Seater 2+2,22:01,07h 00m,05:01,4.1, 639,35 Seats available
+Kanpur (Uttar Pradesh) to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/kanpur-to-bareilly,UPSRTC - PLB0044,Ordinary Non AC Seater 2+3,22:45,06h 15m,05:00,2.3, 442,52 Seats available
+Kanpur (Uttar Pradesh) to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/kanpur-to-bareilly,Samay Shatabdi Travels Pvt Ltd,Bharat Benz A/C Sleeper (2+1),20:00,06h 45m,02:45,4.3, 1000,7 Seats available
+Kanpur (Uttar Pradesh) to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/kanpur-to-bareilly,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:55,07h 55m,03:50,2.8,832,17 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,UPSRTC - MZF0066,Janrath AC Seater 2+2,21:00,05h 40m,02:40,3.3, 570,36 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,UPSRTC - BLY0649,Janrath AC Seater 2+3,21:05,05h 15m,02:20,3.3, 542,48 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,UPSRTC - SRG0032,Ordinary Non AC Seater 2+3,21:26,05h 34m,03:00,3.3, 429,52 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,UPSRTC - SRD1030,Janrath AC Seater 2+3,21:45,05h 55m,03:40,3.3, 542,48 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,UPSRTC - RKD0033,Janrath AC Seater 2+2,22:00,05h 30m,03:30,4.4, 620,36 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,UPSRTC - SRG0229,Ordinary Non AC Seater 2+3,22:45,05h 57m,04:42,3.3, 429,52 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,UPSRTC - SRG0188,Ordinary Non AC Seater 2+3,23:26,05h 34m,05:00,3.3, 429,52 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,UPSRTC - GRH0125,Ordinary Non AC Seater 2+3,23:35,06h 55m,06:30,3.3, 429,50 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,UPSRTC - MZF0111,Janrath AC Seater 2+2,23:59,05h 21m,05:20,3.3, 620,34 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,PTC-SKYBUS,Bharat Benz A/C Seater /Sleeper (2+1),23:55,05h 20m,05:15,4.5, 600,4 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:10,06h 05m,05:15,3.2, 599,1 Seat available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),23:10,04h 50m,04:00,3.3,719,10 Seats available
+Bareilly (Uttar Pradesh) to Lucknow,https://www.redbus.in/bus-tickets/bareilly-to-lucknow,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+1),23:00,06h 00m,05:00,3.7,539,18 Seats available
+Dehradun to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/dehradun-to-bareilly,UPSRTC - RKD0135,Janrath AC Seater 2+3,22:31,07h 30m,06:01,2.0, 652,44 Seats available
+Badaun to Delhi,https://www.redbus.in/bus-tickets/badaun-to-delhi,UPSRTC - KSB0004,Shatabdi AC Seater 2+2,23:00,06h 00m,05:00,3.6, 505,21 Seats available
+Agra to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/agra-to-bareilly,UPSRTC - BLY0134,Janrath AC Seater 2+2,23:05,05h 55m,05:00,3.8, 486,26 Seats available
+Delhi to Kotdwar (Uttarakhand),https://www.redbus.in/bus-tickets/delhi-to-kotdwar-uttarakhand,UPSRTC - BJR0473,Ordinary Non AC Seater 2+3,21:15,05h 15m,02:30,3.3, 341,52 Seats available
+Delhi to Kotdwar (Uttarakhand),https://www.redbus.in/bus-tickets/delhi-to-kotdwar-uttarakhand,UPSRTC - NJB0126,Ordinary Non AC Seater 2+3,21:20,07h 20m,04:40,2.6, 416,52 Seats available
+Delhi to Kotdwar (Uttarakhand),https://www.redbus.in/bus-tickets/delhi-to-kotdwar-uttarakhand,UPSRTC - BJR0130,Ordinary Non AC Seater 2+3,22:00,06h 00m,04:00,1.7, 416,52 Seats available
+Delhi to Kotdwar (Uttarakhand),https://www.redbus.in/bus-tickets/delhi-to-kotdwar-uttarakhand,UPSRTC - BJR0489,Ordinary Non AC Seater 2+3,22:15,05h 45m,04:00,1.0, 375,52 Seats available
+Delhi to Kotdwar (Uttarakhand),https://www.redbus.in/bus-tickets/delhi-to-kotdwar-uttarakhand,UPSRTC - NJB0131,Ordinary Non AC Seater 2+3,22:40,06h 20m,05:00,1.6, 416,52 Seats available
+Delhi to Kotdwar (Uttarakhand),https://www.redbus.in/bus-tickets/delhi-to-kotdwar-uttarakhand,UPSRTC - BJR0131,Ordinary Non AC Seater 2+3,23:00,05h 30m,04:30,2.1, 416,52 Seats available
+Delhi to Kotdwar (Uttarakhand),https://www.redbus.in/bus-tickets/delhi-to-kotdwar-uttarakhand,UPSRTC - BJR0507,Ordinary Non AC Seater 2+3,23:16,06h 15m,05:31,3.3, 375,52 Seats available
+Delhi to Kotdwar (Uttarakhand),https://www.redbus.in/bus-tickets/delhi-to-kotdwar-uttarakhand,UPSRTC - BJR0137,Ordinary Non AC Seater 2+3,23:30,05h 30m,05:00,1.4, 416,52 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,UPSRTC - AWD0206,Pink Express AC Seater 2+2,21:45,06h 15m,04:00,2.2, 810,40 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,UPSRTC - AWD0056,Janrath AC Seater 2+2,23:15,06h 12m,05:27,4.2, 810,33 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,UPSRTC - TAJ0010,Pink Express AC Seater 2+2,23:45,05h 46m,05:31,3.9, 810,41 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,RSRTC - 177797,A/C Seater / Sleeper (2+1),21:00,05h 30m,02:30,3.9, 891,13 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Gola Bus Service,VE A/C Seater / Sleeper (2+1),22:20,04h 40m,03:00,4.3, 469,13 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Raj Kalpana Travels Pvt.ltd.,A/C Seater/Sleeper (2+1),22:30,03h 55m,02:25,4.3, 459,14 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:00,05h 00m,03:00,4.6, 449,22 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,04h 50m,03:40,4.6, 519,10 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,A/C Sleeper (2+1),21:10,05h 00m,02:10,4.5, 759,10 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,International Tourist Centre,VE A/C Seater / Sleeper (2+1),21:30,05h 00m,02:30,4.8,486,21 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:40,04h 55m,02:35,4.7, 549,9 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:10,04h 50m,03:00,4.5, 709,10 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:50,04h 55m,02:45,4.5, 549,11 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Sethi Yatra Company,A/C Seater / Sleeper (2+1),20:00,04h 30m,00:30,4.4,739,3 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Zingbus Plus,A/C Semi Sleeper / Sleeper (2+1),22:10,04h 25m,02:35,4.8,431,11 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,04h 50m,03:20,4.5, 509,12 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),22:00,05h 00m,03:00,4.5, 519,12 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,05h 10m,02:40,4.7, 639,8 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:40,04h 20m,02:00,4.6, 600,7 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:30,05h 00m,01:30,4.5, 779,1 Seat available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:40,05h 10m,01:50,4.5, 469,4 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:00,04h 45m,03:45,4.9, 519,11 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Ashok Bus Service,VE A/C Sleeper (2+1),23:10,04h 20m,03:30,4.7,508,36 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05h 00m,04:30,4.8, 519,17 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,04h 00m,02:30,4.8,837,1 Seat available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:35,04h 50m,04:25,4.5, 549,13 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:40,04h 20m,04:00,4.6, 600,2 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,RS YADAV SMART BUS,A/C Seater / Sleeper (2+1),23:30,03h 50m,03:20,5.0, 799,1 Seat available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:45,05h 00m,04:45,4.0, 539,10 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:59,04h 56m,04:55,4.8, 599,13 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Sethi Yatra Company,A/C Seater / Sleeper (2+1),21:05,04h 55m,02:00,4.1,648,10 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:50,05h 15m,04:05,4.5, 1413,6 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:50,05h 05m,01:55,4.5, 619,38 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),22:30,04h 30m,03:00,4.1,925,2 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:20,04h 50m,02:10,4.6, 1019,51 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Tiwari Tour and Travels,A/C Sleeper (2+1),23:20,05h 05m,04:25,3.3, 1299,36 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Goyal Travels,A/C Seater / Sleeper (2+1),23:25,04h 45m,04:10,3.9, 550,15 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,VGO BUS,VE A/C Seater / Sleeper (2+1),22:30,05h 00m,03:30,3.2, 599,21 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,A/C Semi Sleeper / Sleeper (2+1),23:15,04h 45m,04:00,3.9, 549,10 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),21:00,05h 00m,02:00,3.2, 439,6 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:00,05h 00m,03:00,3.3, 699,2 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Anshi Raj Shree Travels,Bharat Benz A/C Sleeper (2+1),20:00,04h 30m,00:30,3.1,924,21 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Raj Kalpana Travels Pvt.ltd.,Bharat Benz A/C Seater /Sleeper (2+1),22:45,03h 45m,02:30,2.9, 549,37 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),21:05,04h 30m,01:35,2.8, 699,15 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),21:35,02h 55m,00:30,2.4,899,16 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Sethi Yatra Company,A/C Seater/Sleeper (2+1),23:55,03h 55m,03:50,2.9,601,27 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Safar Express,A/C Seater / Sleeper (2+1),22:30,04h 16m,02:46,2.8, 599,20 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:45,04h 15m,04:00,2.8, 599,10 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Sethi Yatra Company,Bharat Benz A/C Seater /Sleeper (2+1),23:50,05h 05m,04:55,0,647,11 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,05h 35m,05:20,0, 656,5 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Shobha Bus Service,A/C Sleeper (2+1),21:00,04h 30m,01:30,0, 1399,30 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Safar Express,A/C Seater / Sleeper (2+1),21:05,04h 30m,01:35,0, 1399,34 Seats available
+Lucknow to Agra,https://www.redbus.in/bus-tickets/lucknow-to-agra,Safar Express,A/C Seater / Sleeper (2+2),22:40,04h 00m,02:40,0, 2499,48 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,UPSRTC - ETD0017,Ordinary Non AC Seater 2+3,23:55,04h 35m,04:30,3.3, 295,52 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),20:45,03h 05m,23:50,4.0, 449,3 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,NueGo,A/C Seater (2+2),21:00,04h 45m,01:45,4.1,284,33 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,NueGo,A/C Seater (2+2),22:00,04h 45m,02:45,4.3,284,37 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,NueGo,A/C Seater (2+2),23:55,04h 45m,04:40,4.3,284,33 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),22:10,03h 30m,01:40,3.5,1395,3 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,04h 10m,02:40,3.5,719,22 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,PTC-SKYBUS,VE A/C Seater / Sleeper (2+1),22:50,03h 55m,02:45,3.7, 699,9 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,Sethi Yatra Company,A/C Seater / Sleeper (2+1),23:10,03h 25m,02:35,3.9,647,9 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),23:30,03h 40m,03:10,3.8, 1099,8 Seats available
+Agra to Delhi,https://www.redbus.in/bus-tickets/agra-to-delhi,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),VE A/C Seater / Sleeper (2+1),23:59,03h 31m,03:30,2.5,629,27 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,Gola Bus Service,A/C Seater/Sleeper (2+1),21:00,13h 05m,10:05,4.6, 699,11 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:20,13h 55m,10:15,4.5, 699,16 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,RAO SAHAB TRAVELS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),22:00,12h 08m,10:08,4.5, 699,14 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:20,14h 35m,11:55,4.3, 659,20 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,Laxmi holidays,VE A/C Seater / Sleeper (2+2),21:00,14h 00m,11:00,4.0, 599,53 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,DIVA BUS,AC Sleeper (2+1),20:30,14h 30m,11:00,4.8, 2095.24,36 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,Gola Bus Service,VE A/C Seater / Sleeper (2+1),20:40,13h 05m,09:45,4.6, 699,10 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+2),20:10,12h 51m,09:01,3.9, 899,24 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,ROYAL TRAVELS AND CARGO,A/C Seater / Sleeper (2+2),21:55,12h 30m,10:25,1.3, 796,17 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,Baba Khatushyam Travels Pvt Ltd,A/C Seater / Sleeper (3+1),21:00,14h 49m,11:49,1.4, 1500,58 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,Travel Point World LLP,A/C Seater / Sleeper (2+2),20:30,11h 05m,07:35,1.9,1614,34 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,Safar Express,A/C Seater / Sleeper (2+2),20:10,12h 51m,09:01,0, 899,24 Seats available
+Gorakhpur (uttar pradesh) to Delhi,https://www.redbus.in/bus-tickets/gorakhpur-to-delhi,Ashok Travels,A/C Seater / Sleeper (2+2),23:00,12h 00m,11:00,0, 1610,16 Seats available
+Jhansi(Uttar Pradesh) to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/jhansi-to-kanpur,UPSRTC - JHD0029,Ordinary Non AC Seater 2+3,21:30,05h 30m,03:00,3.3, 381,48 Seats available
+Jhansi(Uttar Pradesh) to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/jhansi-to-kanpur,Shatabdi Travels,Bharat Benz A/C Sleeper (2+1),23:45,05h 00m,04:45,3.9, 899,4 Seats available
+Jhansi(Uttar Pradesh) to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/jhansi-to-kanpur,Kamla Travels,Non A/C Seater / Sleeper (2+1),23:55,05h 05m,05:00,3.1, 750,4 Seats available
+Jhansi(Uttar Pradesh) to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/jhansi-to-kanpur,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:30,05h 00m,02:30,1.9,719,10 Seats available
+Jhansi(Uttar Pradesh) to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/jhansi-to-kanpur,Maa Peetambra Bus,NON A/C Sleeper (2+1),23:30,04h 30m,04:00,1.6, 600,7 Seats available
+Jhansi(Uttar Pradesh) to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/jhansi-to-kanpur,Anshi Raj Shree Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,03h 45m,03:15,2.4,1017,8 Seats available
+Jhansi(Uttar Pradesh) to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/jhansi-to-kanpur,Citylink Travels Gwalior,A/C Sleeper (2+1),23:45,04h 45m,04:30,2.4,720,5 Seats available
+Jhansi(Uttar Pradesh) to Kanpur (Uttar Pradesh),https://www.redbus.in/bus-tickets/jhansi-to-kanpur,Betrwanti Travels,NON A/C Sleeper (2+1),22:30,03h 00m,01:30,2.6, 1900,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,UPSRTC - HTR0342,Ordinary Non AC Seater 2+3,21:00,08h 30m,05:30,3.3, 652,52 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,UPSRTC - AWD0057,Janrath AC Seater 2+2,21:40,08h 00m,05:40,3.7, 1016,31 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),23:55,06h 05m,06:00,4.6, 1449,8 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Here Bus,A/C Sleeper (2+1),22:50,05h 55m,04:45,4.2,2160,36 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Tiwari Tour and Travels,A/C Sleeper (2+1),22:50,05h 55m,04:45,4.3, 1599,23 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:55,06h 00m,02:55,4.8, 1419,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,BSS COOL COOL TRAVELS,VE A/C Sleeper (2+1),23:00,05h 50m,04:50,4.3, 1600,5 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:25,06h 40m,05:05,4.2, 5000,46 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:30,05h 30m,04:00,4.3, 1498,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,05h 55m,05:05,4.3, 2299,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),23:00,06h 45m,05:45,1.4, 1659,5 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Panwar tour and Travels,A/C Seater / Sleeper (2+1),23:30,07h 00m,06:30,3.9,1665,42 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:45,05h 35m,05:20,4.4, 1377,3 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Zingbus Plus,Bharat Benz A/C Seater /Sleeper (2+1),22:35,05h 55m,04:30,3.5,1583,18 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),20:15,05h 15m,01:30,3.7, 2500,48 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Fouji travels,Bharat Benz A/C Seater / Sleeper (2+2),22:20,05h 10m,03:30,3.5, 1599,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+1),23:05,04h 40m,03:45,3.1, 2600,48 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Shiv Mohan Travels,AC Sleeper (2+1),22:31,06h 10m,04:41,3.5, 1450,36 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Laxmi holidays,VE A/C Seater / Sleeper (2+2),22:00,06h 30m,04:30,3.4, 1100,13 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Gola Bus Service,VE A/C Seater / Sleeper (2+1),23:30,05h 30m,05:00,3.9, 1399,3 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Jamna Travels (Delhi),A/C Sleeper (2+2),23:55,04h 55m,04:50,3.7, 1600,4 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Fouji travels,A/C Seater / Sleeper (2+1),23:20,05h 10m,04:30,3.2, 1499,3 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:00,06h 00m,05:00,3.4, 2400,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:45,05h 45m,04:30,3.5, 1939,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+2),20:40,05h 15m,01:55,3.6, 1200,3 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),23:25,05h 00m,04:25,3.5, 2099,5 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),23:00,05h 10m,04:10,3.8,1529,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Vaishali Bus Services Private Limited,A/C Seater / Sleeper (2+1),21:30,05h 30m,03:00,3.7, 1499,30 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Khajuraho Travels,A/C Seater / Sleeper (2+1),22:56,05h 40m,04:36,3.4, 1696,11 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Gola Bus Service,A/C Seater/Sleeper (2+1),23:10,06h 05m,05:15,3.5, 1999,17 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Vaishali Expresso Pvt. Ltd.,A/C Seater / Sleeper (2+1),21:20,05h 50m,03:10,3.6, 2500,48 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),20:45,04h 40m,01:25,3.6, 1499,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+2),21:30,05h 30m,03:00,3.9, 1399,12 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Gajraj bus service,Bharat Benz A/C Seater /Sleeper (2+1),22:25,05h 40m,04:05,3.6, 1900,25 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),22:05,05h 30m,03:35,3.6, 1699,7 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,SAFAR EXPRESS PVT LTD,A/C Seater / Sleeper (2+1),22:30,05h 05m,03:35,3.1, 1799,19 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Vinay Travels,VE A/C Seater / Sleeper (2+1),23:05,06h 30m,05:35,2.9,2690,3 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,FlixBus,Bharat Benz A/C Sleeper (2+1),23:30,05h 10m,04:40,2.6, 1508.93,3 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Varun Travels,A/C Seater / Sleeper (2+2),21:45,05h 15m,03:00,2.4, 1299,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,New India Travels,A/C Seater/Sleeper (2+1),23:30,04h 35m,04:05,2.6, 1799,4 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Singh Tour & Travels,A/C Seater (2+2),21:15,06h 15m,03:30,1.8, 2499,37 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Vande Bharat Travels,A/C Seater / Sleeper (2+2),23:00,06h 00m,05:00,2.6, 1713.33,35 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,KISSAN TRAVELS PILANI,Bharat Benz A/C Seater /Sleeper (2+1),22:05,05h 10m,03:15,2.1,1519,46 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Safar Express,A/C Seater / Sleeper (2+1),23:25,05h 00m,04:25,2.7, 1999,38 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Shri Siddhi Vinayak Travels,A/C Seater / Sleeper (2+1),23:30,05h 00m,04:30,1.8, 2599,48 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Safar Express,A/C Seater / Sleeper (2+2),21:30,05h 30m,03:00,2.4, 1999,48 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Safar Express,A/C Seater / Sleeper (2+1),22:30,05h 05m,03:35,0, 1999,40 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Safar Express,A/C Seater / Sleeper (2+2),22:05,05h 30m,03:35,0, 1999,48 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Jagdamba tourism,A/C Seater / Sleeper (2+2),23:00,05h 30m,04:30,0, 1699,15 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Safar Express,A/C Seater / Sleeper (2+1),20:45,04h 40m,01:25,0, 1999,30 Seats available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,Gola Bus Service,A/C Seater/Sleeper (2+1),21:10,06h 05m,03:15,0, 1799,1 Seat available
+Mathura to Lucknow,https://www.redbus.in/bus-tickets/mathura-to-lucknow,New India Travels,A/C Seater/Sleeper (2+1),22:45,08h 15m,07:00,0, 1569,17 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,UPSRTC - ALM0338,Shatabdi AC Seater 2+2,21:00,06h 30m,03:30,3.3, 774,37 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,UPSRTC - CBG0047,Janrath AC Seater 2+2,21:00,07h 00m,04:00,2.2, 748,36 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,UPSRTC - AWD0092,Janrath AC Seater 2+2,21:30,07h 00m,04:30,3.3, 748,36 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,UPSRTC - JNP0200,Ordinary Non AC Seater 2+3,21:31,07h 30m,05:01,3.3, 528,52 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,UPSRTC - ALM0320,Shatabdi AC Seater 2+2,21:59,06h 29m,04:28,3.3, 748,37 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,UPSRTC - ALM0150,Volvo AC Seater 2+2,22:29,05h 50m,04:19,4.5, 1046,39 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,UPSRTC - CHL0016,Ordinary Non AC Seater 2+3,22:30,06h 30m,05:00,3.3, 528,52 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,UPSRTC - AWD0095,Pink Express AC Seater 2+2,23:00,07h 00m,06:00,3.0, 748,41 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,UPSRTC - HDD0002,Janrath AC Seater 2+2,23:30,07h 00m,06:30,4.7, 748,36 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:30,06h 15m,04:45,4.0,369,15 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,PTC-SKYBUS,A/C Seater/Sleeper (2+1),22:30,07h 00m,05:30,4.6, 449,11 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,Yolo Bus,A/C Seater / Sleeper (2+1),22:14,07h 44m,05:58,4.3, 349,29 Seats available
+Varanasi to Lucknow,https://www.redbus.in/bus-tickets/varanasi-to-lucknow,Raj Kalpana Travels Pvt.Ltd,A/C Seater/Sleeper (2+1),20:00,05h 45m,01:45,4.0, 699,16 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,UPSRTC - CBG0092,Pink Express AC Seater 2+2,21:01,05h 44m,02:45,3.3, 570,40 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,UPSRTC - SBD0118,Pink Express AC Seater 2+2,21:01,04h 24m,01:25,3.3, 620,40 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,UPSRTC - MRD0007,Janrath AC Seater 2+2,22:00,06h 15m,04:15,3.3, 620,36 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,UPSRTC - BLY0121,Janrath AC Seater 2+2,22:31,05h 29m,04:00,3.3, 620,36 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,UPSRTC - RKD0032,Janrath AC Seater 2+2,23:30,05h 30m,05:00,4.5, 620,36 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,UPSRTC - BLY0123,Janrath AC Seater 2+2,23:56,05h 34m,05:30,2.7, 620,36 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+1),22:30,06h 00m,04:30,3.7,629,8 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,PTC-SKYBUS,A/C Seater / Sleeper (2+1),23:15,05h 05m,04:20,4.5, 600,11 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:45,05h 05m,03:50,3.3,739,17 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,Samay Shatabdi Travels Pvt Ltd,Bharat Benz A/C Sleeper (2+1),22:00,04h 45m,02:45,3.5, 1000,7 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,Vijay Tour and Travels,A/C Seater / Sleeper (2+1),21:10,05h 10m,02:20,2.7,719,11 Seats available
+Lucknow to Bareilly (Uttar Pradesh),https://www.redbus.in/bus-tickets/lucknow-to-bareilly,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:15,05h 00m,02:15,3.3, 699,1 Seat available
+Bareilly (Uttar Pradesh) to Agra,https://www.redbus.in/bus-tickets/bareilly-to-agra,UPSRTC - BLY0077,Ordinary Non AC Seater 2+3,21:30,05h 00m,02:30,3.3, 323,52 Seats available
+Bareilly (Uttar Pradesh) to Agra,https://www.redbus.in/bus-tickets/bareilly-to-agra,UPSRTC - AGF0050,Shatabdi AC Seater 2+2,22:46,05h 59m,04:45,2.9, 534,36 Seats available
+Bareilly (Uttar Pradesh) to Agra,https://www.redbus.in/bus-tickets/bareilly-to-agra,UPSRTC - BLY0079,Ordinary Non AC Seater 2+3,23:00,05h 00m,04:00,3.3, 355,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - LNI0100,Ordinary Non AC Seater 2+3,06:30,06h 35m,13:05,3.3, 525,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - LNI0682,Ordinary Non AC Seater 2+3,06:31,05h 44m,12:15,3.3, 525,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - HPR0013,Ordinary Non AC Seater 2+3,08:30,05h 30m,14:00,3.3, 525,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - SBD0097,Janrath AC Seater 2+2,08:30,06h 00m,14:30,2.7, 715,35 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - HPR0776,Ordinary Non AC Seater 2+3,08:36,06h 07m,14:43,3.3, 490,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - HPR0772,Ordinary Non AC Seater 2+3,09:12,06h 00m,15:12,3.3, 490,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - HPR0014,Ordinary Non AC Seater 2+3,12:00,06h 00m,18:00,3.3, 525,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - HPR0015,Ordinary Non AC Seater 2+3,13:00,06h 00m,19:00,3.5, 525,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - RMP0015,Ordinary Non AC Seater 2+3,19:00,07h 00m,02:00,3.3, 525,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,UPSRTC - RMP0018,Ordinary Non AC Seater 2+3,19:30,07h 30m,03:00,1.0, 525,52 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,RSRTC - 195742,A/C Seater / Sleeper (2+1),23:59,06h 31m,06:30,1.5, 664,28 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:25,07h 00m,05:25,4.8, 999,38 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:00,06h 00m,05:00,4.7, 1682,13 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,AdRS YADAV SMART BUS,A/C Seater / Sleeper (2+1),22:00,07h 00m,05:00,4.5, 1099,30 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,04h 45m,03:45,4.5,899,5 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:50,05h 40m,05:30,4.5, 1318,22 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Fasttrack Travels,VE A/C Seater / Sleeper (2+2),22:30,06h 45m,05:15,4.2,674,29 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Fasttrack Travels,VE A/C Seater / Sleeper (2+2),11:00,07h 00m,18:00,4.0,774,46 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),01:20,06h 45m,08:05,2.8,629,12 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Laxmi holidays,VE A/C Seater / Sleeper (2+1),22:30,06h 00m,04:30,4.4, 1449,19 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Laxmi holidays,VE A/C Sleeper (2+1),23:30,05h 45m,05:15,4.4, 1299,23 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,International Tourist Centre,VE A/C Seater / Sleeper (2+1),22:15,07h 00m,05:15,4.5, 999,31 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),02:30,05h 20m,07:50,3.0,854,15 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),23:00,04h 30m,03:30,4.4,607,25 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,KVS Holidays,A/C Seater/Sleeper (2+1),22:00,07h 15m,05:15,3.2,359,33 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,V DHANRAJ,A/C Seater / Sleeper (2+2),23:15,05h 25m,04:40,4.5,1042,15 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,India Tours & Travels (GetBookCab),A/C Seater / Sleeper (2+2),22:45,04h 25m,03:10,4.1,755,29 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Fasttrack Travels,A/C Seater/Sleeper (2+1),22:45,06h 45m,05:30,4.2,1174,38 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Royal Safari India Travels,A/C Seater Push Back (2+2),22:30,06h 45m,05:15,4.4,813,17 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,V DHANRAJ,A/C Sleeper (2+2),23:20,05h 25m,04:45,4.3,1090,21 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Zingbus Plus,A/C Seater/Sleeper (2+1),22:30,06h 30m,05:00,3.9,1039,21 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),23:25,06h 20m,05:45,3.6, 1099,26 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Laxmi holidays,VE A/C Seater / Sleeper (2+1),23:40,06h 15m,05:55,3.7, 809,18 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Jagdamba tourism,A/C Seater / Sleeper (2+2),22:30,07h 00m,05:30,3.0, 899,25 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Rjroadrunner,A/C Seater / Sleeper (2+2),11:00,07h 00m,18:00,3.4,629,32 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,International Tourist Centre,A/C Seater / Sleeper (2+2),10:45,07h 45m,18:30,3.2, 649,39 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Vijay Tour and Travels,Volvo Multi-Axle A/C Sleeper (2+1),01:40,05h 20m,07:00,2.6,989,9 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Royal Safari India Travels,Bharat Benz A/C Sleeper (2+1),14:00,06h 30m,20:30,2.7,813,26 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Mahalaxmi Travels,Bharat Benz A/C Seater /Sleeper (2+1),02:00,07h 45m,09:45,2.6, 999,2 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,City Heart Travels (Regd.),Volvo A/C Seater / Sleeper (2+2),22:30,06h 30m,05:00,3.9, 888,40 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,FlixBus,AC Seater (2+2),08:30,06h 45m,15:15,3.5, 1098.21,7 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,FlixBus,AC Seater (2+2),22:45,06h 25m,05:10,3.3, 1051.79,18 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),22:50,06h 35m,05:25,3.7, 999,32 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Fasttrack Travels,A/C Seater/Sleeper (2+1),22:15,07h 30m,05:45,3.3,1174,37 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Jagdamba tourism,A/C Seater/Sleeper (2+1),22:15,07h 00m,05:15,3.9, 899,24 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Royal Safari India Travels,Bharat Benz A/C Seater (2+2),22:30,06h 45m,05:15,5.0,813,24 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Deluxe bus service,A/C Seater/Sleeper (2+1),22:30,06h 30m,05:00,2.6, 2500,44 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Blueworld tourist private limited,AC Seater (2+2),12:30,05h 31m,18:01,1.7, 599,29 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Shree Hare Rama Travels,VE A/C Semi Sleeper (2+2),23:55,07h 05m,07:00,1.4,949,13 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,City Heart Travels (Regd.),Volvo A/C Seater / Sleeper (2+2),22:30,07h 00m,05:30,3.5, 753,40 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,City Land Travels,A/C Seater/Sleeper (2+1),22:25,05h 55m,04:20,1.6,979,27 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),12:15,05h 31m,17:46,2.9, 599,37 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,International Tourist Centre,AC Seater (2+2),22:45,07h 30m,06:15,2.6, 999,38 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),11:45,05h 31m,17:16,4.5, 599,36 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,International Tourist Centre,AC Seater (2+2),23:55,06h 15m,06:10,4.1, 999,38 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,RAO SAHAB TRAVELS PRIVATE LIMITED,A/C Seater / Sleeper (2+1),20:45,07h 15m,04:00,4.0, 999,42 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,BSS COOL COOL TRAVELS,VE A/C Sleeper (2+1),23:30,06h 00m,05:30,3.7, 4500,46 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,FlixBus,Bharat Benz A/C Sleeper (2+1),23:45,06h 15m,06:00,3.7, 1203.57,17 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,FlixBus,Bharat Benz A/C Sleeper (2+1),00:25,05h 35m,06:00,3.5, 1203.57,14 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,City Land Travels,Volvo A/C Semi Sleeper (2+2),23:25,05h 55m,05:20,3.5,1159,29 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Blueworld tourist private limited,A/C Seater / Sleeper (2+2),23:15,06h 35m,05:50,3.2, 999,38 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,DELHI TOUR & TRAVELS,A/C Seater / Sleeper (2+1),22:00,08h 05m,06:05,2.2, 899,18 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,Shree Hare Rama Travels,A/C Seater/Sleeper (2+1),23:00,06h 00m,05:00,1.9,569,26 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,VIP LUXURY TRIPS,Scania Multi-Axle AC Semi Sleeper (2+2),23:40,06h 00m,05:40,1.9, 1199,53 Seats available
+Delhi to Haldwani,https://www.redbus.in/bus-tickets/delhi-to-haldwani,City Heart Travels (Regd.),A/C Seater (2+2),22:00,07h 00m,05:00,0, 1088,27 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - CVL0022,Ordinary Non AC Seater 2+3,07:30,05h 40m,13:10,3.3, 265,52 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - CVL0040,Janrath AC Seater 2+2,08:01,05h 09m,13:10,4.9, 433,36 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - CVL0042,Janrath AC Seater 2+2,09:01,05h 09m,14:10,4.0, 433,36 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - CVL0036,Janrath AC Seater 2+3,10:01,05h 09m,15:10,2.6, 375,48 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - CVL0038,Janrath AC Seater 2+3,11:01,04h 59m,16:00,1.2, 375,48 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - BND0044,Ordinary Non AC Seater 2+3,11:15,04h 00m,15:15,3.3, 291,52 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - JNP0182,Ordinary Non AC Seater 2+3,12:30,04h 14m,16:44,3.3, 291,52 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - JNP0338,Ordinary Non AC Seater 2+3,12:31,04h 14m,16:45,3.3, 291,52 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - JNP0359,Ordinary Non AC Seater 2+3,12:32,04h 14m,16:46,3.3, 291,52 Seats available
+Prayagraj(Uttar Pradesh) to Azamgarh,https://www.redbus.in/bus-tickets/allahabad-to-azamgarh,UPSRTC - BTR0023,Ordinary Non AC Seater 2+3,19:00,06h 17m,01:17,3.3, 283,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0608,Ordinary Non AC Seater 2+3,06:30,08h 15m,14:45,3.3, 634,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0200,Ordinary Non AC Seater 2+3,07:00,07h 20m,14:20,3.3, 634,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0203,Ordinary Non AC Seater 2+3,08:02,07h 20m,15:22,3.3, 634,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0209,Ordinary Non AC Seater 2+3,08:32,07h 20m,15:52,3.3, 634,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0212,Ordinary Non AC Seater 2+3,09:02,07h 20m,16:22,3.3, 634,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0214,Ordinary Non AC Seater 2+3,09:32,07h 20m,16:52,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0217,Ordinary Non AC Seater 2+3,10:02,07h 20m,17:22,3.3, 634,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0225,Ordinary Non AC Seater 2+3,10:32,07h 20m,17:52,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0236,Ordinary Non AC Seater 2+3,11:02,07h 20m,18:22,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0099,Ordinary Non AC Seater 2+3,11:30,08h 20m,19:50,3.3, 634,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0246,Ordinary Non AC Seater 2+3,11:32,07h 20m,18:52,3.3, 634,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - STD0586,Janrath AC Seater 2+2,12:00,08h 30m,20:30,3.3, 812,36 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0100,Ordinary Non AC Seater 2+3,12:01,08h 24m,20:25,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0253,Ordinary Non AC Seater 2+3,12:02,07h 20m,19:22,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0256,Ordinary Non AC Seater 2+3,13:00,07h 20m,20:20,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0263,Ordinary Non AC Seater 2+3,15:00,07h 20m,22:20,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0271,Ordinary Non AC Seater 2+3,16:01,07h 20m,23:21,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0032,Ordinary Non AC Seater 2+3,16:30,08h 00m,00:30,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0278,Ordinary Non AC Seater 2+3,17:31,07h 20m,00:51,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - HDD0063,Ordinary Non AC Seater 2+3,18:00,07h 03m,01:03,3.3, 600,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0610,Ordinary Non AC Seater 2+3,18:45,08h 00m,02:45,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - BRT0007,Ordinary Non AC Seater 2+3,19:40,08h 20m,04:00,3.3, 617,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0281,Ordinary Non AC Seater 2+3,19:45,07h 20m,03:05,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - STD0163,Ordinary Non AC Seater 2+3,19:58,09h 18m,05:16,3.3, 582,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - STD0368,Ordinary Non AC Seater 2+3,20:01,08h 39m,04:40,3.3, 613,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - HDD0005,Janrath AC Seater 2+2,20:45,08h 45m,05:30,3.3, 839,35 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0286,Ordinary Non AC Seater 2+3,21:00,07h 20m,04:20,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - STD0144,Ordinary Non AC Seater 2+3,21:28,09h 02m,06:30,3.3, 613,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - GLA0141,Janrath AC Seater 2+2,21:35,07h 30m,05:05,3.3, 841,34 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - SJP0288,Ordinary Non AC Seater 2+3,21:45,07h 20m,05:05,3.3, 584,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - LKM0399,Shatabdi AC Seater 2+2,22:15,06h 59m,05:14,3.3, 818,36 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - STD0072,Janrath AC Seater 2+2,22:40,07h 05m,05:45,2.5, 818,35 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - LKM0401,Shatabdi AC Seater 2+2,23:15,06h 59m,06:14,3.3, 768,37 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - KSB0221,Shatabdi AC Seater 2+2,23:30,06h 30m,06:00,3.3, 818,37 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,UPSRTC - GND0100,Ordinary Non AC Seater 2+3,23:55,08h 05m,08:00,3.3, 586,52 Seats available
+Shahjahanpur (Uttar Pradesh) to Delhi,https://www.redbus.in/bus-tickets/shahjahanpur-to-delhi,RS YADAV SMART BUS,Bharat Benz A/C Seater /Sleeper (2+1),22:45,07h 10m,05:55,4.7, 799,29 Seats available
