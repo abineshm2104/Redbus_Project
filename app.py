@@ -46,7 +46,7 @@ def main():
 
                 if selected_route:
                     # Sidebar - Selectbox for sorting preference
-                    price_sort_order = st.sidebar.selectbox('Sort by Price', ['Low to High', 'High to Low','Below 500'])
+                    price_sort_order = st.sidebar.selectbox('Sort by Price', ['Low to High', 'High to Low'])
 
                     # Fetch data based on selected Route_Name and price sort order
                     data = fetch_data(connection, selected_route, price_sort_order)
