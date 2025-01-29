@@ -5,7 +5,7 @@ connection = pymysql.connect(
          password = '12345', database = 'guvi_project')
 cursor = connection.cursor()
 
-create_table_query = f"""create table bus_routes (id int primary key auto_increment ,route_name varchar(250),route_link varchar(250),busname varchar(250),bustype varchar(250),departing_time time,duration varchar(250),reaching_time time,star_rating float,price decimal,seats_available int);"""
+create_table_query = f"""create table bus_routes (id int primary key auto_increment ,route_name varchar(250),route_link varchar(250),busname varchar(250),bustype varchar(250),departing_time time,duration varchar(250),reaching_time time,star_rating float,price decimal,seats_available int,state varchar(250));"""
 cursor.execute(create_table_query)
 print("Table Created Successfully")
 connection.commit()
@@ -21,7 +21,7 @@ df = pd.read_csv("bus_routes.csv")
 df['Seat_Availability'] = df['Seat_Availability'].str.extract(r"(\d+)")
 
 df = df.dropna() #drop null values
-table_insert_declaration = "(route_name ,route_link ,busname ,bustype ,departing_time ,duration ,reaching_time ,star_rating ,price,seats_available) values (%s, %s, %s,%s, %s, %s,%s, %s, %s,%s)"
+table_insert_declaration = "(route_name ,route_link ,busname ,bustype ,departing_time ,duration ,reaching_time ,star_rating ,price,seats_available,state) values (%s, %s, %s,%s, %s, %s,%s, %s, %s,%s,%s)"
 
 for i in range(len(df)):
     insert_table_query = f"""insert into bus_routes {table_insert_declaration};"""
